@@ -28,7 +28,7 @@ main {
 }
 
 .card {
-    max-width: 300px;
+    max-width: 310px;
     background-color: var(--white);
     border-radius: 1rem;
     padding: 1rem;
@@ -41,12 +41,13 @@ img {
 }
 
 h1 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     color: var(--dark-blue);
     margin: 1rem 0;
 }
 
 p {
     color: var(--grayish-blue);
+    padding: 0 0.6rem;
     margin-bottom: 1rem;
 }
